@@ -1,5 +1,5 @@
 import React from 'react';
-import { TrendingUp, TrendingDown, X, ExternalLink } from 'lucide-react';
+import { TrendingUp, TrendingDown, X } from 'lucide-react';
 import { StockQuote, CompanyProfile } from '../../types/stock.types';
 import { formatCurrency, formatNumber, getChangeColorClass } from '../../utils/formatters';
 
