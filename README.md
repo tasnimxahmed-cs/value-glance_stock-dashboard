@@ -2,7 +2,8 @@
 
 A modern, responsive stock market dashboard built with React, TypeScript, and Tailwind CSS. Track real-time stock prices, view interactive charts, and manage your watchlist with a beautiful, intuitive interface.
 
-![Stock Dashboard Preview](https://via.placeholder.com/800x400/1f2937/ffffff?text=Stock+Dashboard+Preview)
+![Stock Dashboard Preview](https://github.com/user-attachments/assets/1dae1fa3-fb8d-4927-af8f-e72776eef726?text=Stock+Dashboard+Preview)
+
 
 ## ✨ Features
 
